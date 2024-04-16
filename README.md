@@ -16,7 +16,7 @@ This Python script scrapes data from a website using Selenium for link extractio
 3. Set the `link` variable to the target webpage URL in the `scraper.py` file.
 4. Run the main script:
     ```bash
-    python scraper.py
+    cd src/;python main.py
     ```
 5. Outputs two files: `links.csv` (scraped links) and `output.xlsx` (scraped data).
 
