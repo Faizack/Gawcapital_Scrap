@@ -1,4 +1,4 @@
-# Web Scraping with Selenium and BeautifulSoup
+#  Scraping GawCapital
 
 ## Overview
 This Python script scrapes data from a website using Selenium for link extraction and BeautifulSoup for data parsing.
