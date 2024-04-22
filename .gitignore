@@ -5,3 +5,5 @@ env
 data
 DB
 data2
+json/
+pdf/
